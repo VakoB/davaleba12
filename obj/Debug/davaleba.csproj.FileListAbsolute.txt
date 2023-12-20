@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\davaleba\bin\Debug\davaleba.exe.config
+C:\Users\Student\source\repos\davaleba\bin\Debug\davaleba.exe
+C:\Users\Student\source\repos\davaleba\bin\Debug\davaleba.pdb
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.Form1.resources
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.Properties.Resources.resources
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.exe
+C:\Users\Student\source\repos\davaleba\obj\Debug\davaleba.pdb
